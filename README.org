@@ -1,1 +1,37 @@
-* Ajedrez
+#+TITLE: Lista de aperturas
+#+AUTHOR: Leanhdro
+#+STARTUP: show2levels
+* Peon de Rey
+** [[./Aperturas/PeonDeRey/DefensaAlekhine/Analisis.org][Defensa Alekhine]]
+** [[./Aperturas/PeonDeRey/DefensaCaro-Kann/Analisis.org][Defensa Caro-Kann]]
+** [[file:Aperturas/PeonDeRey/DefensaEscandinava/Analisis.org][Defensa Escandinava]]
+** [[file:Aperturas/PeonDeRey/DefensaFrancesa/Analisis.org][Defensa Francesa]]
+** [[file:Aperturas/PeonDeRey/DefensaModerna/Analisis.org][Defensa Moderna]]
+** [[file:Aperturas/PeonDeRey/DefensaPhilidor/Analisis.org][Defensa Philidor]]
+** [[file:Aperturas/PeonDeRey/DefensaPirc/Analisis.org][Defensa Pirc]]
+** [[file:Aperturas/PeonDeRey/DefensaSiciliana/Analisis.org][Defensa Siciliana]]
+** [[file:Aperturas/PeonDeRey/Escocesa/Analisis.org][Escocesa]]
+** [[file:Aperturas/PeonDeRey/Italiana/Analisis.org][Italiana]]
+** [[file:Aperturas/PeonDeRey/RuyLopez/Analisis.org][Ruy Lopez]]
+* Peon de Dama
+** [[file:Aperturas/PeonDeDama/AtaqueTrompowsky/Analisis.org][Ataque Trompowsky]]
+** [[file:Aperturas/PeonDeDama/Catalana/Analisis.org][Catalana]]
+** [[file:Aperturas/PeonDeDama/DefensaAlemana/Analisis.org][Defensa Alemana]]
+** [[file:Aperturas/PeonDeDama/DefensaBogo-India/Analisis.org][Defensa Bogo-India]]
+** [[file:Aperturas/PeonDeDama/DefensaGrunfeld/Analisis.org][Defensa Grunfeld]]
+** [[file:Aperturas/PeonDeDama/DefensaIndiaDeDama/Analisis.org][Defensa India de Dama]]
+** [[file:Aperturas/PeonDeDama/DefensaIndiaDeRey/Analisis.org][Defensa India de Rey]]
+** [[file:Aperturas/PeonDeDama/DefensaNinzo-India/Analisis.org][Defensa Ninzo-India]]
+** [[file:Aperturas/PeonDeDama/Eslava/Analisis.org][Eslava]]
+** [[file:Aperturas/PeonDeDama/GambitoBeko/Analisis.org][Gambito Beko]]
+** [[file:Aperturas/PeonDeDama/GambitoDeDama/Analisis.org][Gambito de Dama]]
+** [[file:Aperturas/PeonDeDama/SistemaLondres/Analisis.org][Sistema Londres]]
+* Otras
+** [[file:Aperturas/Otras/AtaqueIndioDeRey/Analisis.org][Ataque Indio de Rey]]
+** [[file:Aperturas/Otras/AtaqueNimzowitsch-Larsen/Analisis.org][Ataque Ninzowitsch-Larsen]]
+** [[file:Aperturas/Otras/Bird/Analisis.org][Bird]]
+** [[file:Aperturas/Otras/DefensaPolaca/Analisis.org][Defensa Polaca]]
+** [[file:Aperturas/Otras/FianchettoDeRey/Analisis.org][Fianchetto de Rey]]
+** [[file:Aperturas/Otras/Grob/Analisis.org][Grob]]
+** [[file:Aperturas/Otras/Inglesa/Analisis.org][Inglesa]]
+** [[file:Aperturas/Otras/Reti/Analisis.org][Reti]]
