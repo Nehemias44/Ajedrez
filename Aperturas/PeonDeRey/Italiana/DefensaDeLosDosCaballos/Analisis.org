@@ -1,0 +1,69 @@
+#+TITLE: Apertura Italiana
+#+SUBTITLE: Defensa de los 2 caballos
+#+AUTHOR: Leanhdro
+#+DATE: <2024-03-11 lun>
+#+STARTUP: Show2levels
+* Posicion: 1.e4 e5 2.Cf3 Cc6 3.Ac4 Cf6
+Dada la posicion elegi el movimiento *4.d3* que protege el peon de *e4* y deja libre la casilla *d2* por donde se pueden desarrollar el /caballo de b/ o el /alfil de casillas negras/.
+#+ATTR_HTML: :width 500px
+* Posibles respuestas al movimiento elegido 4.d3
+** Ac5
+*** 5.h3 d6
+**** 6.0-0 Cd4
+***** 7.a4 Cxf3+ 8.Dxf3 Unica!
+****** 8.Dxf3
+****** 8.Dxf3
+****** 8.Dxf3
+****** 8.Dxf3
+****** 8.Dxf3
+***** 7.a4 a5
+***** 7.a4 c6
+***** 7.a4 a6
+***** 7.a4 Cc6
+**** 6.0-0 h6
+**** 6.0-0 Ca5
+**** 6.0-0 0-0
+**** 6.0-0 a5
+*** 5.h3 h6
+**** 6.
+**** 6.
+**** 6.
+**** 6.
+**** 6.
+*** 5.h3 0-0
+**** 6.
+**** 6.
+**** 6.
+**** 6.
+**** 6.
+*** 5.h3 Ab6
+**** 6.
+**** 6.
+**** 6.
+**** 6.
+**** 6.
+*** 5.h3 a6
+$\hr$
+** h6
+*** 5.c3 g5 
+*** 5.c3 d6
+*** 5.c3 Ae7
+*** 5.c3 a6
+*** 5.c3 Ac5
+** a6
+*** 5.a4 Ac5
+*** 5.a4  h6
+*** 5.a4  Ae7
+*** 5.a4  Ad6
+*** 5.a4  Ab4+
+** Ae7
+*** 5.0-0 0-0
+*** 5.0-0 a6
+*** 5.0-0 a5
+*** 5.0-0 d6
+*** 5.0-0 h6
+** Ab4+
+*** 5.c3 Ac5
+*** 5.c3 Aa5
+*** 5.c3 Ae7
+*** 5.c3 Ad6

@@ -1,0 +1,17 @@
+#+TITLE: Apertura Ruy Lopez
+#+SUBTITLE: Española
+#+AUTHOR: Leanhdro
+#+DATE:<2024-03-13 mié>
+#+STARTUP: overview
+* Posicion inicial: 1.e4 e5 2.Cf3 Cc6 3.Ab5
+#+ATTR_HTML: :width 500px
+* Variantes populares
+** [[file:AtaqueMarshall/Analisis.org][Ataque Marshall]]
+** [[file:DefensaMorphy/Analisis.org][Defensa Morphy]]
+** [[file:GambitoSchliemann-Jaenisch/Analisis.org][Gambito Schliemann-Jaenisch]]
+** [[file:VarienteAbierta/Analisis.org][Variante Abierta]]
+** [[file:VarienteCerrada/Analisis.org][Variante Cerrada]]
+** [[file:VarienteDelCambio/Analisis.org][Variante del cambio]]
+* Como jugar contra la apertura Española.
+** [[file:DefensaBerlinesa/Analisis.org][Defensa Berlinesa]]
+** [[file:VarienteArcangel/Analisis.org][Variante Arcangel]]

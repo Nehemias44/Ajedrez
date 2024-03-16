@@ -1,0 +1,27 @@
+#+TITLE:  Como jugar contra Gambito de Rey
+#+SUBTITLE: Aceptado: King's Knight's Gambit
+#+AUTHOR: Leanhdro
+#+DATE: <2024-03-13 mié>
+* Posicion inicial: 1.e4 e5 2.f5 exf4 3.Cf3
+#+ATTR_HTML: :width 500px
+
+*  Posibles continuaciones a la respuesta elegida g5
+** 4.Ac4 g4
+*** 5.0-0 gxf3
+**** 6.Dxf3 Df6
+***** 7.d3 Ah6
+***** 7.e5 Dxe5
+***** 7.c3 Ah6
+**** 6.Txf3
+**** 6.d4
+**** 6.d3
+**** 6.Cc3
+*** 5.Ce5 Dh4+
+**** 6.Rf1
+**** 
+**** 
+**** 
+**** 
+*** 5.Axf7 Rxf7
+*** 5.Cc3 gxf3
+*** 5.d4 gxf3

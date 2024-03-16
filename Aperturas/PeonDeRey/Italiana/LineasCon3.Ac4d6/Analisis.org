@@ -1,0 +1,14 @@
+#+TITLE: Apertura Italiana
+#+AUTHOR: Leanhdro
+#+DATE: <2024-03-13 mié>
+#+SUBTITLE: Lineas con 4.Ac4 d6
+
+* Posicion: 1.e4 e5 2.Cf3 Cc6 3.Ac4 d6
+#+ATTR_HTML: :width 500px
+
+* Posibles variantes al movimiento elegido 4.c3
+** 4.c3
+** 4.c3
+** 4.c3
+** 4.c3
+** 4.c3

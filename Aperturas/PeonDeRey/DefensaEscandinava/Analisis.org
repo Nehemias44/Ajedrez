@@ -1,0 +1,8 @@
+#+TITLE: Defensa Escandinava
+#+AUTHOR: Leanhdro
+#+DATE: <2024-03-11 lun>
+* Posicion inicial: 1.e4 d5
+#+ATTR_HTML: :width 500px
+* Variantes mas populares.
+** 2.exd5 Dxd5
+** 2.exd5 Cf6
