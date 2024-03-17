@@ -1,0 +1,4 @@
+#+TITLE: Apertura Escocesa
+#+AUTHOR: Leanhdro
+#+DATE: <2024-03-17 dom>
+#+STARTUP: content

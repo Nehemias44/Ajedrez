@@ -1,0 +1,38 @@
+#+TITLE: Gambito de Dama
+#+SUBTITLE: Declinado
+#+AUTHOR: Leanhdro
+#+DATE: <2024-03-16 sáb>
+* Posicion: 1.d4 d4 2.c4 e6
+#+ATTR_HTML: :width 500px
+[[./Posicion.png]]
+* Posibles continuciones al movimiento elegido 3.Cf3
+** Cf6
+*** 4.Cc3 c6
+*** 4.Cc3 a6
+*** 4.Cc3 Cbd7
+*** 4.Cc3 Ab4
+*** 4.Cc3 Ae7
+** c6
+*** 4.e3 Cf6
+*** 4.e3 b6
+*** 4.e3 Cd7
+*** 4.e3 Ae7
+*** 4.e3 Ad6
+** h6
+*** 4.g3 Cd7
+*** 4.g3 Ae7
+*** 4.g3 Cf6
+*** 4.g3 Ab4+
+*** 4.g3 Ad6
+** Ae7
+*** 4.Af4 Cf6
+*** 4.Af4 dxc4
+*** 4.Af4 c6
+*** 4.Af4 h6
+*** 4.Af4 Cc6
+** dxc4
+*** 4.e3 Cf6
+*** 4.e3 Ae7
+*** 4.e3 c5
+*** 4.e3 a6
+*** 4.e3 Cd7

@@ -1,0 +1,39 @@
+#+TITLE: Apertura Escocesa
+#+SUBTITLE: Variante Clasica
+#+AUTHOR: Leanhdro
+#+DATE: <2024-03-17 dom>
+#+STARTUP: content
+* Posicion: 1.e4 e5 2.Cf3 Cc6 3.d4 exd4 4.Cxd4 Ac5
+#+ATTR_HTML: :width 500px
+[[./Posicion.png]]
+* Posibles continuaciones
+** 5.Ae3 Df6
+*** 6.Df6 c3
+*** 6.Df6 Cb5
+*** 6.Df6 e5
+*** 6.Df6 Cf5
+*** 6.Df6 Cxc6
+** 5.Cxc6
+*** 6.Df6 Df3
+*** 6.Df6 De2
+*** 6.Df6 Dd2
+*** 6.Df6 f4
+*** 6.Df6 f3
+** 5.Cb3
+*** 6.Ab6 De2
+*** 6.Ab6 Cc3
+*** 6.Ab6 Ac3
+*** 6.Ab6 Df3
+*** 6.Ab6 a4
+** 5.Cf3
+*** 6.d6 h3
+*** 6.d6 Cc3
+*** 6.d6 Ad3
+*** 6.d6 Ac4
+*** 6.d6 a3
+** 5.Cf5
+*** 6.d5 Cxg5
+*** 6.d5 Ae2
+*** 6.d5 Ae3
+*** 6.d5 Cc3
+*** 6.d5 Ce3

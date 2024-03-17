@@ -1,0 +1,13 @@
+#+TITLE: Apertura Escocesa
+#+AUTHOR: Leanhdro
+#+DATE: <2024-03-17 dom>
+#+STARTUP: content
+* Posicion inicial: 1.e4 e5 2.Cf3 Cc6 3.d4
+#+ATTR_HTML: :width 500px
+[[./PosicionInicial.png]]
+* Variantes populares
+** [[file:Schmidt/Analisis.org][Schmidt]]
+** [[file:Clasica/Analisis.org][Clasica]]
+** [[file:GambitoEscoces/Analisis.org][Gambito escoces]]
+** [[file:GambitoGoring/Analisis.org][Gambito Goring]]
+** [[file:Malaniuk/Analisis.org][Malaniuk]]
