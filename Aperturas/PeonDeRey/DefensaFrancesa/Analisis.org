@@ -1,0 +1,15 @@
+#+TITLE: Defensa Francesa
+#+AUTHOR: Leanhdro
+#+STARTUP: show2levels
+* Posicion inicial: 1.e4 e6
+#+ATTR_HTML: :width 450px
+[[./PosicionInicial.png]]
+* Variantes populares
+** [[file:Tarrasch/Analisis.org][Tarrasch]]
+** [[file:Winawer/Analisis.org][Winawer]]
+** [[file:Clasica/Analisis.org][Clasica]]
+** [[file:DelAvance/Analisis.org][Del Avance]]
+** [[file:DelCambio/Analisis.org][Del Cambio]]
+* Romendaciones para jugar contra la defensa francesa
+** Variante Tarrasch
+** Variante del avance
