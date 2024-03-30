@@ -2,7 +2,7 @@
 #+SUBTITLE: Española
 #+AUTHOR: Leanhdro
 #+DATE:<2024-03-13 mié>
-#+STARTUP: overview
+#+STARTUP: show2levels
 * Posicion inicial: 1.e4 e5 2.Cf3 Cc6 3.Ab5
 #+ATTR_HTML: :width 500px
 * Variantes populares

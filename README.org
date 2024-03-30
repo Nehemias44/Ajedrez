@@ -1,7 +1,8 @@
 #+TITLE: Lista de aperturas
 #+AUTHOR: Leanhdro
 #+STARTUP: show2levels
-* Peon de Rey
+* Peon de Rey 
+** Apertura de los 4 caballos
 ** [[./Aperturas/PeonDeRey/DefensaAlekhine/Analisis.org][Defensa Alekhine]]
 ** [[./Aperturas/PeonDeRey/DefensaCaro-Kann/Analisis.org][Defensa Caro-Kann]]
 ** [[file:Aperturas/PeonDeRey/DefensaEscandinava/Analisis.org][Defensa Escandinava]]
@@ -11,6 +12,7 @@
 ** [[file:Aperturas/PeonDeRey/DefensaPirc/Analisis.org][Defensa Pirc]]
 ** [[file:Aperturas/PeonDeRey/DefensaSiciliana/Analisis.org][Defensa Siciliana]]
 ** [[file:Aperturas/PeonDeRey/Escocesa/Analisis.org][Escocesa]]
+** [[file:Aperturas/PeonDeRey/GambitoDeRey/Analisis.org][Gambito de Rey]]
 ** [[file:Aperturas/PeonDeRey/Italiana/Analisis.org][Italiana]]
 ** [[file:Aperturas/PeonDeRey/RuyLopez/Analisis.org][Ruy Lopez]]
 * Peon de Dama

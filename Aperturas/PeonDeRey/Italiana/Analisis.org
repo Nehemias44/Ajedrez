@@ -1,9 +1,9 @@
 #+TITLE: Apertura Italiana
 #+DATE: <2024-03-09 sáb>
 #+AUTHOR: Leanhdro
-#+STARTUP: overview
+#+STARTUP: show3levels
 * Posicion inicial: 1.e4 e5 2.Cf3 Cc6 3.Ac4
-#+ATTR_HTML: :width 450px
+#+attr_org: :width 400px :align center
 [[./PosicionIncial.png]]
 * Variantes conocidas
 ** [[./DefensaDeLosDosCaballos/Analisis.org][Defensa de los 2 caballos]]
