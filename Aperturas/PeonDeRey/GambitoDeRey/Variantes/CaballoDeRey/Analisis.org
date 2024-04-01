@@ -5,7 +5,7 @@
 * Posicion inicial: 1.e4 e5 2.f5 exf4 3.Cf3
 #+ATTR_HTML: :width 500px
 
-*  Posibles continuaciones a la respuesta elegida g5
+* Posibles continuaciones a la respuesta elegida g5
 ** 4.Ac4 g4
 *** 5.0-0 gxf3
 **** 6.Dxf3 Df6

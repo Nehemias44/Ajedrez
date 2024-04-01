@@ -1,0 +1,14 @@
+#+TITLE: Defensa Siciliana
+#+AUTHOR: Leanhdro
+#+DATE: <2024-03-30 sáb>
+#+STARTUP: showall inlineimages
+* Posicion inicial: 1.e4 c5
+#+ATTR_ORG: :width 450px
+[[./img/startposition.png]]
+* Variantes
+** Abierta: 1.e4 c5 2.Cf3 d6 3.d4 cxd4 3.Cxd4
+** Alapin: 1.e4 c5 2.c3
+** Cerrada: 1.e4 c5 2.Cc3
+** Dragon: 1.e4 c5 2.Cf3 d6 3.d4 cxd4 4.Cxd4 Cf6 5.Cc3 g6
+** Francesa: 1.e4 c5 2.Cf3 e6
+** Najdorf: 1.e4 c5 2.Cf3 d6 3.d4 cxd4 4.Cxd4 Cf6 5.Cc3 a6

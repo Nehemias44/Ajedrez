@@ -2,10 +2,7 @@
 #+SUBTITLE: Defensa Anti-Fried Liver
 #+DATE: <2024-03-11 lun>
 #+AUTHOR: Leanhdro
-#+STARTUP: latexpreview
-#+LATEX_CLASS: article
-#+LATEX_CLASS_OPTIONS: [a4paper]
-#+LATEX_HEADER: \newcommand\hr{\par\vspace{-.5\ht\strutbox}\noindent\hrulefill\par}
+#+STARTUP: showall inlineimages
 * Posicion: 1.e4 e5 2.Cf3 Cc6 3.Ac4 h6
 #+ATTR_HTML: :width 500px
 * Posibles respuestas al movimiento elegido 4.0-0

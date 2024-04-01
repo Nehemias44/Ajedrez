@@ -2,10 +2,10 @@
 #+SUBTITLE: Defensa de los 2 caballos
 #+AUTHOR: Leanhdro
 #+DATE: <2024-03-11 lun>
-#+STARTUP: inlineimages show2levels
+#+STARTUP: inlineimages showall
 * Posicion: 1.e4 e5 2.Cf3 Cc6 3.Ac4 Cf6
-#+attr_org: :width 400px
-[[./board.png]]      
+#+attr_html: :width 400px
+[[./board.png]]
 Dada la posicion elegi el movimiento =4.d3= que protege el peon de =e4= y deja libre la casilla =d2= por donde se pueden desarrollar el caballo de =b= o el alfil de casillas negras.
 * Posibles respuestas al movimiento elegido 4.d3
 #+attr_org: :width 400px

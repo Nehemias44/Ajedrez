@@ -1,7 +1,7 @@
 #+TITLE: Apertura Italiana
 #+DATE: <2024-03-09 sáb>
 #+AUTHOR: Leanhdro
-#+STARTUP: show3levels
+#+STARTUP: showall inlineimages
 * Posicion inicial: 1.e4 e5 2.Cf3 Cc6 3.Ac4
 #+attr_org: :width 400px :align center
 [[./PosicionIncial.png]]

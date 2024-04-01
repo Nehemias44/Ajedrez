@@ -1,0 +1,35 @@
+#+TITLE: Apertura de los 4 caballos
+#+AUTHOR: Leanhdro
+#+DATE: <2024-03-30 sáb>
+* Posicion inicial: 1.e4 e5 2.Cf3 Cc6 3.Cc3 Cf6
+* Posibles continuaciones
+** 4.Ab5 Ad6
+*** 5.0-0 0-0
+*** 5.Aa4 0-0
+*** 5.Ac4 0-0
+*** 5.d3 0-0
+*** 5.Axc6 dxc6
+** 4.Ae2 Ad6
+*** 5.h3 0-0
+*** 5.d3 0-0
+*** 5.0-0 0-0
+*** 5.a4 0-0
+*** 5.Ac4 0-0
+** 4.Ac4 Cxe4
+*** 5.Cxe4 d5
+*** 5.De2 Cxc3
+*** 5.0-0 Cxc3
+*** 5.Ad5 Cxc3
+*** 5.d4 Cxc3
+** 4.h3 Ab4
+*** 5.Cd5 Cxd5
+*** 5.a3 Axc3
+*** 5.Ad3 0-0
+*** 5.Ac4 Axc3
+*** 5.Ab5 0-0
+** 4.a3 Ae7
+*** 5.d4 exd4
+*** 5.Ac4 Cxe4
+*** 5.Ab5 Cd4
+*** 5.h3 0-0
+*** 5.Ad3 0-0

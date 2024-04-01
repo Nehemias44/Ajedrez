@@ -2,7 +2,7 @@
 #+AUTHOR: Leanhdro
 #+STARTUP: show2levels
 * Peon de Rey 
-** Apertura de los 4 caballos
+** [[file:Aperturas/PeonDeRey/4caballos/Analisis.org][Apertura de los 4 caballos]]
 ** [[./Aperturas/PeonDeRey/DefensaAlekhine/Analisis.org][Defensa Alekhine]]
 ** [[./Aperturas/PeonDeRey/DefensaCaro-Kann/Analisis.org][Defensa Caro-Kann]]
 ** [[file:Aperturas/PeonDeRey/DefensaEscandinava/Analisis.org][Defensa Escandinava]]
@@ -25,6 +25,7 @@
 ** [[file:Aperturas/PeonDeDama/DefensaIndiaDeRey/Analisis.org][Defensa India de Rey]]
 ** [[file:Aperturas/PeonDeDama/DefensaNinzo-India/Analisis.org][Defensa Ninzo-India]]
 ** [[file:Aperturas/PeonDeDama/Eslava/Analisis.org][Eslava]]
+** [[file:Aperturas/PeonDeDama/JuegoIndio/Analisis.org][Juego Indio]]
 ** [[file:Aperturas/PeonDeDama/GambitoBeko/Analisis.org][Gambito Beko]]
 ** [[file:Aperturas/PeonDeDama/GambitoDeDama/Analisis.org][Gambito de Dama]]
 ** [[file:Aperturas/PeonDeDama/SistemaLondres/Analisis.org][Sistema Londres]]

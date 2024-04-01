@@ -1,8 +1,74 @@
 #+TITLE: Defensa Escandinava
 #+AUTHOR: Leanhdro
 #+DATE: <2024-03-11 lun>
+#+STARTUP: showall inlineimages
 * Posicion inicial: 1.e4 d5
-#+ATTR_HTML: :width 500px
+#+ATTR_ORG: :width 500px
+[[./img/startposition.png]]
 * Variantes mas populares.
 ** 2.exd5 Dxd5
+#+ATTR_ORG: :width 500px
+[[./img/2.exd5Dxd5.png]]
+*** 3.Cc3 Dd8
+**** 4.Cf3 Af5
+**** 4.Cf3 Cf6
+**** 4.Cf3 g6
+**** 4.Cf3 e6
+**** 4.Cf3 a6
+*** 3.Cc3 Da5
+**** 4.d4 Cf6
+**** 4.d4 c6
+**** 4.d4 g6
+**** 4.d4 e6
+**** 4.d4 a6
+*** 3.Cc3 De6
+**** 4.Ae2 Cf6
+**** 4.Ae2 g6
+**** 4.Ae2 Dd6
+**** 4.Ae2 a6
+**** 4.Ae2 Cc6
+*** 3.Cc3 De5
+**** 4.Ae2 Cf6
+**** 4.Ae2 c6
+**** 4.Ae2 Da5
+**** 4.Ae2 Dd6
+**** 4.Ae2 Ag5
+*** 3.Cc3 Dd6
+**** 4.d4 Cf6
+**** 4.d4 g6
+**** 4.d4 c6
+**** 4.d4 e6
+**** 4.d4 a6
 ** 2.exd5 Cf6
+#+ATTR_ORG: :width 500px
+[[./img/2.exd5Cf6.png]]
+*** 3.d4 Cxd5
+**** 4.Cf3 e6
+**** 4.Cf3 Cf6
+**** 4.Cf3 Af5
+**** 4.Cf3 Ag4
+**** 4.Cf Af5 
+*** 3.d4 Dxd4
+**** 4.Cc3 Da5
+**** 4.Cc3 Dd8
+**** 4.Cc3 Dd6
+**** 4.Cc3 De7
+**** 4.Cc3 De6+
+*** 3.d4 e6
+**** 4.Ab5+ c6
+**** 4.Ab5+ Ad7
+**** 4.Ab5+ Cbd7
+**** 4.Ab5+ Cfd7
+**** 4.Ab5+ Re5
+*** 3.d4 c6
+**** 4.dxc6 Cxc6
+**** 4.dxc6 bxc6
+**** 4.dxc6 e5
+**** 4.dxc6 Da5+
+**** 4.dxc6 e6
+*** 3.d4 c5
+**** 4.dxc5 Dxd5
+**** 4.dxc5 Cxd5
+**** 4.dxc5 Da5+
+**** 4.dxc5 e6
+**** 4.dxc5 a6
