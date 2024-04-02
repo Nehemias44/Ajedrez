@@ -1,9 +1,0 @@
-#+TITLE:  Como jugar contra Gambito de Rey
-#+AUTHOR: Leanhdro
-#+DATE: <2024-03-13 mié>
-* Posicion inicial: 1.e4 e5 2.f5
-#+ATTR_HTML: :width 500px
-[[./PosicionInicial.png]]
-* Variantes
-** [[./Variantes/CaballoDeRey/Analisis.org][Aceptado: King's Knight's Gambit]]
-** [[./Variantes/CaballoDeRey/Analisis.org][Aceptado: Bishop's Gambit]]

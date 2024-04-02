@@ -1,0 +1,99 @@
+#+TITLE: Estudio de ajedrez
+#+AUTHOR: Leanhdro
+#+DATE: <2024-04-02 mar>
+#+STARTUP: show2levels inlineimages
+* Introduccion
+* Conceptos de ajedrez
+** Controlar el centro del tablero
+** Seguridad del  rey
+** Desarrollo de piezas
+** Jugada del oponente
+** Estructura de peones
+** Fases de la partida
+*** Apertura
+*** Medio juego
+*** Final
+* Metodos de calculo
+** Mejor metodo de calculo
+* Aperturas de 1.e4
+** Apertura de los 4 caballos
+*Posicion inicial:* =1.e4 e5 2.Cf3 Cc6 3.Cf6 Cc3=
+#+ATTR_ORG: :width 400px
+** Apertura Italiana
+*Posicion inicial:* =1.e4 e5 2.Cf3 Cc6 3.Ac4=
+#+ATTR_ORG: :width 400px
+[[./img/AItalianaSP.png]]
+*** Variantes mas populares
+**** Defensa Anti-Fried Liver
+**** Defensa de los 2 caballos 3.Ac4 Cf6
+#+ATTR_ORG: :width 400px
+[[./img/AItalianaD2C0.png]]
+Dada la posicion elegi el movimiento =4.d3= que protege el peon de =e4= y deja libre la casilla =d2= por donde se pueden desarrollar el caballo de =b= o el alfil de casillas negras.
+#+ATTR_ORG: :width 400px
+[[./img/AItalianaD2C1.png]]
+La respuesta mas usual es =Ac5=, prepara el enroque corto, ubica el alfil en una buena casilla central desde la que mira el punto =f2= donde puede coordinar con el caballo de =f6= si dedice hacer a futuro el movimiento =Cg4=. 
+#+ATTR_ORG: :width 400px
+[[./img/AItalianaD2C2.png]]
+Tambien a futuro el movimiento =Ag4= clavando el caballo de =f3= es posible. Es por eso que elegimos evitar estas amanazas con el movimiento  =5.h3= al mismo tiempo damos una via de escape al Rey ante el inminente enroque corto. Los motores de ajedrez recomiendan =5.c3= protegiendo la casilla =d4= y prepara una posible ruptura en =d4=.
+#+ATTR_ORG: :width 400px
+[[./img/AItalianaD2C3.png]]
+En este punto por transposicon llegamos a la variante *Giuoco Pianissimo*.
+**** Defensa Hungara 4.Ac4 Ae7
+#+ATTR_ORG: :width 400px
+**** Giuoco Piano 4.Ac4 Ac5
+#+ATTR_ORG: :width 400px
+**** Lineas con 4.Ac4 d6
+#+ATTR_ORG: :width 400px
+**** Lineas con 4.Ac4 Df6
+#+ATTR_ORG: :width 400px
+**** Gambito Evans 4.Ac4 Ac5 5.b4
+#+ATTR_ORG: :width 400px
+**** Gambito Rousseau
+#+ATTR_ORG: :width 400px
+** Apertura Escocesa
+** Apertura Española
+*Posicion inicial:* =1.e4 e5 2.Cf3 Cc6 3.Ab5=
+#+ATTR_ORG: :width 400px
+** Defensa Alekhine
+** Defensa Caro-Kann
+*Posicion inicial:* =1.e4 c6=
+#+ATTR_ORG: :width 400px
+*** Variantes mas populares
+** Defensa Escandinava
+*Posicion inicial:* =1.e4 d5=
+#+ATTR_ORG: :width 400px
+*** Variantes mas polulares
+** Defensa Francesa
+*Posicion inicial:* =1.e4 e6=
+#+ATTR_ORG: :width 400px
+** Defensa Moderna
+** Defensa Philidor
+** Defensa Pirc
+** Defensa Siciliana
+*Posicion inicial:* =1.e4 c5=
+#+ATTR_ORG: :width 400px
+** Gambito de Rey
+*Posicion inicial:* =1.e4 c6 2.f4=
+#+ATTR_ORG: :width 400px
+* Aperturas de 1.d4
+** Apertura Catalana
+** Ataque Trompowsky
+** Defensa Alemana
+** Defensa Defensa Bogo-India
+** Defensa Eslava
+** Defensa Grunfeld
+** Defensa India de Dama
+** Defensa India de Rey
+** Defensa Ninzo-India
+** Gambito Beko
+** Gambito de Dama
+** Sistema Londres
+* Otras aperturas
+** Apertura Bird
+** Apertura Grob
+** Apertura Inglesa
+** Apertura Polaca
+** Apertura Reti
+** Ataque Indio de Rey
+** Ataque Ninzowitsch-Larsen
+** Fianchetto de Rey

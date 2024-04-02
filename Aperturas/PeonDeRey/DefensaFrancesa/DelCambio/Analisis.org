@@ -1,5 +1,0 @@
-#+TITLE: Defensa Francesa
-#+AUTHOR: Leanhdro
-#+STARTUP: show2levels
-* Posicion inicial: 1.e3 e6
-#+ATTR_HTML: :width 450px
