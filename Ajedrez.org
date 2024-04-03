@@ -19,6 +19,7 @@
 ** Apertura de los 4 caballos
 *Posicion inicial:* =1.e4 e5 2.Cf3 Cc6 3.Cf6 Cc3=
 #+ATTR_ORG: :width 400px
+[[./img/A4CSP.png]]
 ** Apertura Italiana
 *Posicion inicial:* =1.e4 e5 2.Cf3 Cc6 3.Ac4=
 #+ATTR_ORG: :width 400px
@@ -51,9 +52,23 @@ En este punto por transposicon llegamos a la variante *Giuoco Pianissimo*.
 **** Gambito Rousseau
 #+ATTR_ORG: :width 400px
 ** Apertura Escocesa
+*Posicion inicial:* =1.e4 e5 2.Cf3 Cc6 3.d4=
+#+ATTR_ORG: :width 400px
+[[./img/AESCST.png]]
 ** Apertura Española
+Tambien concoda como Apertura Ruy Lopez en honor a su creador
 *Posicion inicial:* =1.e4 e5 2.Cf3 Cc6 3.Ab5=
 #+ATTR_ORG: :width 400px
+[[./img/AESP0.png]]
+*** Variantes mas polulares
+**** Linea principal
+**** Variante Abierta
+**** Variante cerrada
+**** Variante del cambio
+**** Variante Arcangel
+**** Defensa Berlinesa
+**** Gambito Schlieman-Jaenisch
+**** Ataque Marshall
 ** Defensa Alekhine
 ** Defensa Caro-Kann
 *Posicion inicial:* =1.e4 c6=
